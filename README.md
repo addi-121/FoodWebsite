@@ -1,2 +1,2 @@
-# FoodWebsite
-WebProject Descrption
+# Food-Website
+This is a Food Website
